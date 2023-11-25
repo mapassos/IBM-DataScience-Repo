@@ -1,2 +1,2 @@
-# IBM-Science-Repo
+# IBM-DataScience-Repo
 Repository containing assignments
